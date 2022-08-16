@@ -1,5 +1,15 @@
 # restaurant-wish-list
 
+## SKILLS
+- **Backend**
+    - `JDK 11 (JAVA)`
+    - `Spring-boot`
+- **Frontend**
+    - `bootstrap framework`
+- **IDE** : `IntelliJ`
+    - **build tool** : `gradle`
+- **Open Source** : `Naver API`
+
 ## 기능 요구 사항
 - 맛집 검색
 - 맛집 위시리스트 추가
